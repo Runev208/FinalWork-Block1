@@ -20,3 +20,5 @@
 [“Russia”, “Denmark”, “Kazan”] → []
 ```
 ***
+## __Блок - схема алгоритма задачи__ ## 
+> ![Block-diagram](Block_diagram.drawio.png)
